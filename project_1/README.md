@@ -2,7 +2,10 @@
 
 Our poster is about organ transplants. We analyzed the development of transplantology in Poland, including declines in the number of transplanted organs and their likely causes. We compared survival rates after transplanting different organs and examined the relationship between the sex and status of the donor. Additionally, we showed which organ transplants are the most common. Finally, we focused on illegal organ trade and the prices of various organs.
 
-Authors: Katarzyna Skoczylas, Aleksandra Zawadka, Martyna Sadowska.
+## Authors
+- [Katarzyna Skoczylas](https://github.com/kasia-sko)
+- [Martyna Sadowska](https://github.com/Martyna-265)
+- [Aleksandra Zawadka](https://github.com/Ola-zaw)
 
 Sources:
 - https://data.hrsa.gov/topics/health-systems/organ-donation
